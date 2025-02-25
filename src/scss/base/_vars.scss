@@ -1,15 +1,18 @@
 :root {
-	--container-width: 1200px;
-	--container-padding: 15px;
+	--container-width: 1920px;
+	--container-padding: 80px;
 
-	--font-main: sans-serif;
-	--font-accent: 'Manrope', sans-serif;
-	--font-titles: var(--font-accent);
 
-	--page-bg: #fff;
-	--text-color: #000;
-	--accent: #ac182c;
-	--link-color: #2578c8;
+	--font-family: "Gilroy", sans-serif;
+	--second-family: "Chronicle Display", sans-serif;
+	--font-titles: var(--font-family);
+
+	--bg: #0b1d26;
+	--weiß: #fff;
+	--accent: #fbd784
+	--page-bg: var(--bg);
+	--text-color: var(--weiß);
+	--link-color: var(--weiß);
 
 
     --laptop-size: 1199px;
